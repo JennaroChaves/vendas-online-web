@@ -12,6 +12,4 @@ export const TitleInput = styled(Text)`
     
     margin:8px;
 
-
-
 `;
